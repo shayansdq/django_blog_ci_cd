@@ -1,0 +1,1 @@
+# django_blog_ci_cd
